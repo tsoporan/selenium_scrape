@@ -51,4 +51,3 @@ for url in gallery_urls:
 
 # All done
 browser.close()
-
